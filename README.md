@@ -7,3 +7,6 @@ https://public.tableau.com/app/profile/tiffany.deleon/viz/Final-Team50/Final
 
 Kaggle BART dataset: 
 https://www.kaggle.com/datasets/mrgeislinger/bartridership?select=date-hour-soo-dest-2021.csv
+
+Realtor dataset: 
+https://www.realtor.com/research/data.
