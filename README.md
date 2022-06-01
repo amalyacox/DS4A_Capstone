@@ -8,11 +8,11 @@ https://public.tableau.com/app/profile/tiffany.deleon/viz/Final-Team50/Final
 Kaggle BART ridership dataset: 
 https://www.kaggle.com/datasets/mrgeislinger/bartridership?select=date-hour-soo-dest-2021.csv
 
-Bay_Zipcodes.txt: 
+bay_zipcodes.txt: 
 https://data.sfgov.org/Geographic-Locations-and-Boundaries/Bay-Area-ZIP-Codes/u5j3-svi6
 
 BART_STATIONS_ABBREVIATIONS.txt: 
-bart.gov
+https://api.bart.gov/docs/overview/abbrev.aspx
 
 Realtor dataset: 
 https://www.realtor.com/research/data.
