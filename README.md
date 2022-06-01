@@ -10,3 +10,5 @@ https://www.kaggle.com/datasets/mrgeislinger/bartridership?select=date-hour-soo-
 
 Realtor dataset: 
 https://www.realtor.com/research/data.
+
+Notebooks here give examples on how to make plots in tableau dashboard
