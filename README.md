@@ -5,10 +5,18 @@ Accompanying tableau dashboard:
 https://public.tableau.com/app/profile/tiffany.deleon/viz/Final-Team50/Final
 
 
-Kaggle BART dataset: 
+Kaggle BART ridership dataset: 
 https://www.kaggle.com/datasets/mrgeislinger/bartridership?select=date-hour-soo-dest-2021.csv
+
+Bay_Zipcodes.txt: 
+https://data.sfgov.org/Geographic-Locations-and-Boundaries/Bay-Area-ZIP-Codes/u5j3-svi6
+
+BART_STATIONS_ABBREVIATIONS.txt: 
+bart.gov
 
 Realtor dataset: 
 https://www.realtor.com/research/data.
 
-Notebooks here give examples on how to make plots in tableau dashboard
+Notebooks here give examples on how to make plots in tableau dashboard. 
+
+
